@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ktoons-browser/static/css/main.2f26ca0d.css",
+    "main.js": "/ktoons-browser/static/js/main.f026971e.js",
+    "static/js/787.994511a4.chunk.js": "/ktoons-browser/static/js/787.994511a4.chunk.js",
+    "index.html": "/ktoons-browser/index.html",
+    "main.2f26ca0d.css.map": "/ktoons-browser/static/css/main.2f26ca0d.css.map",
+    "main.f026971e.js.map": "/ktoons-browser/static/js/main.f026971e.js.map",
+    "787.994511a4.chunk.js.map": "/ktoons-browser/static/js/787.994511a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f26ca0d.css",
+    "static/js/main.f026971e.js"
+  ]
+}
